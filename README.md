@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="imgs/logoMacLeak.png" alt="QK14 MacLeak Collector" width="520">
+<img src="imgs/logo-MacLeak.png" alt="QK14 MacLeak Collector" width="520">
 
 # QK14 MacLeak Collector
 
